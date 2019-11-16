@@ -1,28 +1,29 @@
 import React from 'react';
-import { Form } from 'react-bootstrap'
-import { Button } from 'react-bootstrap';
+import {Button, Form} from 'react-bootstrap'
 import {LGOptions} from "./LGOptions";
 
 export const EntryForm = () => {
+    const handleSubmit = event => {
+        console.log(event);
+    }
+
     return (
-        <Form>
-            <Form.Group controlId="formBasicEmail">
-                <Form.Label>Name</Form.Label>
+        <Form method="post" onSubmit={handleSubmit}>
+            <Form.Group controlId="formName">
+                <Form.Label className="font-weight-bolder text-monospace">Name</Form.Label>
                 <Form.Control type="name" placeholder="Enter name" />
             </Form.Group>
-
-            <div className="form-group">
-                <label htmlFor="exampleFormControlSelect1">LG</label>
-                <select className="form-control" id="selectLG">
+            <Form.Group controlId="formLG">
+                <Form.Label className="font-weight-bolder text-monospace">LG</Form.Label>
+                <Form.Control as="select">
                     <LGOptions/>
-                </select>
-            </div>
-
-            <div className="form-group">
-                <label htmlFor="exampleFormControlTextarea1">Timetable</label>
-                <textarea className="form-control" id="timeTableInput" rows="3"></textarea>
-            </div>
-            <Button variant="primary" type="submit">
+                </Form.Control>
+            </Form.Group>
+            <Form.Group controlId="TimetableInput">
+                <Form.Label className="font-weight-bolder text-monospace">Timetable</Form.Label>
+                <Form.Control as="textarea" rows="5" />
+            </Form.Group>
+            <Button type="submit">
                 Submit
             </Button>
         </Form>
