@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/HopeNUS/examtt-frontend-react/static/js/main.4abea594.chunk.js",
+    "main.js.map": "/HopeNUS/examtt-frontend-react/static/js/main.4abea594.chunk.js.map",
+    "runtime-main.js": "/HopeNUS/examtt-frontend-react/static/js/runtime-main.2b099fed.js",
+    "runtime-main.js.map": "/HopeNUS/examtt-frontend-react/static/js/runtime-main.2b099fed.js.map",
+    "static/css/2.d5d9dee5.chunk.css": "/HopeNUS/examtt-frontend-react/static/css/2.d5d9dee5.chunk.css",
+    "static/js/2.d15d5e1a.chunk.js": "/HopeNUS/examtt-frontend-react/static/js/2.d15d5e1a.chunk.js",
+    "static/js/2.d15d5e1a.chunk.js.map": "/HopeNUS/examtt-frontend-react/static/js/2.d15d5e1a.chunk.js.map",
+    "index.html": "/HopeNUS/examtt-frontend-react/index.html",
+    "precache-manifest.6dc4e4dec9f2283dc1a55afe893d0184.js": "/HopeNUS/examtt-frontend-react/precache-manifest.6dc4e4dec9f2283dc1a55afe893d0184.js",
+    "service-worker.js": "/HopeNUS/examtt-frontend-react/service-worker.js",
+    "static/css/2.d5d9dee5.chunk.css.map": "/HopeNUS/examtt-frontend-react/static/css/2.d5d9dee5.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b099fed.js",
+    "static/css/2.d5d9dee5.chunk.css",
+    "static/js/2.d15d5e1a.chunk.js",
+    "static/js/main.4abea594.chunk.js"
+  ]
+}
