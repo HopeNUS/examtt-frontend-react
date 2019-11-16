@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/HopeNUS/examtt-frontend-react/static/js/main.7595b730.chunk.js",
-    "main.js.map": "/HopeNUS/examtt-frontend-react/static/js/main.7595b730.chunk.js.map",
-    "runtime-main.js": "/HopeNUS/examtt-frontend-react/static/js/runtime-main.2b099fed.js",
-    "runtime-main.js.map": "/HopeNUS/examtt-frontend-react/static/js/runtime-main.2b099fed.js.map",
-    "static/css/2.d5d9dee5.chunk.css": "/HopeNUS/examtt-frontend-react/static/css/2.d5d9dee5.chunk.css",
-    "static/js/2.d15d5e1a.chunk.js": "/HopeNUS/examtt-frontend-react/static/js/2.d15d5e1a.chunk.js",
-    "static/js/2.d15d5e1a.chunk.js.map": "/HopeNUS/examtt-frontend-react/static/js/2.d15d5e1a.chunk.js.map",
-    "index.html": "/HopeNUS/examtt-frontend-react/index.html",
-    "precache-manifest.666466916dee2a72f3d4ca32d369c0ac.js": "/HopeNUS/examtt-frontend-react/precache-manifest.666466916dee2a72f3d4ca32d369c0ac.js",
-    "service-worker.js": "/HopeNUS/examtt-frontend-react/service-worker.js",
-    "static/css/2.d5d9dee5.chunk.css.map": "/HopeNUS/examtt-frontend-react/static/css/2.d5d9dee5.chunk.css.map"
+    "main.js": "/github.com/examtt-frontend-react/static/js/main.fd21f886.chunk.js",
+    "main.js.map": "/github.com/examtt-frontend-react/static/js/main.fd21f886.chunk.js.map",
+    "runtime-main.js": "/github.com/examtt-frontend-react/static/js/runtime-main.d4505c11.js",
+    "runtime-main.js.map": "/github.com/examtt-frontend-react/static/js/runtime-main.d4505c11.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/github.com/examtt-frontend-react/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.86d28395.chunk.js": "/github.com/examtt-frontend-react/static/js/2.86d28395.chunk.js",
+    "static/js/2.86d28395.chunk.js.map": "/github.com/examtt-frontend-react/static/js/2.86d28395.chunk.js.map",
+    "index.html": "/github.com/examtt-frontend-react/index.html",
+    "precache-manifest.2e7dccfaeea1d6b292389f2449fc9dbf.js": "/github.com/examtt-frontend-react/precache-manifest.2e7dccfaeea1d6b292389f2449fc9dbf.js",
+    "service-worker.js": "/github.com/examtt-frontend-react/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/github.com/examtt-frontend-react/static/css/2.b0bb7f2c.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b099fed.js",
-    "static/css/2.d5d9dee5.chunk.css",
-    "static/js/2.d15d5e1a.chunk.js",
-    "static/js/main.7595b730.chunk.js"
+    "static/js/runtime-main.d4505c11.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.86d28395.chunk.js",
+    "static/js/main.fd21f886.chunk.js"
   ]
 }
