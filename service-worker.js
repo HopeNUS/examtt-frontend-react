@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/HopeNUS/examtt-frontend-react/precache-manifest.6dc4e4dec9f2283dc1a55afe893d0184.js"
+  "/HopeNUS/examtt-frontend-react/precache-manifest.666466916dee2a72f3d4ca32d369c0ac.js"
 );
 
 self.addEventListener('message', (event) => {
