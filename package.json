@@ -4,7 +4,9 @@
   "description": "examtt frontend react",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production",
+    "start": "webpack --mode development"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,14 @@
   "bugs": {
     "url": "https://github.com/HopeNUS/examtt-frontend-react/issues"
   },
-  "homepage": "https://github.com/HopeNUS/examtt-frontend-react#readme"
+  "homepage": "https://github.com/HopeNUS/examtt-frontend-react#readme",
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
 }
