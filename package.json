@@ -1,0 +1,19 @@
+{
+  "name": "examtt-frontend-react",
+  "version": "1.0.0",
+  "description": "examtt frontend react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HopeNUS/examtt-frontend-react.git"
+  },
+  "author": "jeremiah-ang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HopeNUS/examtt-frontend-react/issues"
+  },
+  "homepage": "https://github.com/HopeNUS/examtt-frontend-react#readme"
+}
