@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import {LGs} from "../constants/LGs";
 
 export const LGOptions = () => {
@@ -6,7 +6,7 @@ export const LGOptions = () => {
     return (
         <>
             {LGs.map((lg) => {
-                    return (<option value={lg}>{lg}</option>);
+                    return (<option key={lg} value={lg}>{lg}</option>);
                 }
             )}
         </>
